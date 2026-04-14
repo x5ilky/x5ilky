@@ -5,3 +5,5 @@ Programs random things occasionally.
 | Discord  | AtCoder  | Codeforces | 
 | -------- | -------- | ---------- |
 | `s.lky`  | `x5ilky` | `Silkyway` |
+
+![bg](/bg.jpg)
